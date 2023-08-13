@@ -1,0 +1,46 @@
+section{
+    height: 500px;
+}
+.top-banner{
+    background-image: url(images.png/header-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 80%;
+    border: 1px solid black;
+}
+
+.half-width{
+    width: 40%;
+    margin-left: 5%;
+    padding: 3;
+    float: left;
+}
+h5{
+    font-size: 25px;
+    font-weight: 100;
+    margin-bottom: 4%;
+}
+.name{
+    color: #F75D59;
+    font-size: 25px; 
+    font-size: 35px;  
+}
+p{
+    font-size: 20px;
+    text-align: justify;
+    color: dimgray;
+    font-weight: 200;
+    margin-top: 12%;
+}
+.link-id{
+    text-decoration: none;
+    color: white;
+    background-color: hsl(2, 91%, 66%);
+    border-radius: 4px;
+    padding: 10px 20px;
+    font-weight: 700;
+}
+img{
+    width: 80%;
+    margin-left: 6%;
+}
