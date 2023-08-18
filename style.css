@@ -30,7 +30,7 @@ h5{
     font-size: 25px; 
     font-size: 35px;  
 }
-p{
+.paragraph{
     font-size: 14px;
     text-align: justify;
     color: dimgray;
@@ -131,10 +131,19 @@ img{
     text-align: center;
     font-size: 15px;
     font-weight: 400;
-    margin-bottom: 4%;
+ 
 }
 .fotter-bg{
     background-image: url(images.png/footer-bg.png);
     background-repeat: no-repeat;
     background-size: 100%;
+}
+#gmail{
+    text-align: center;
+    font-weight: 200;
+}
+.gmail{
+    text-align: center;
+    padding-top: 5%;
+    margin-top: 4%;
 }
